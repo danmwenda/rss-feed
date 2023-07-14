@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Dummy RSS Feed</title>
+    <link>https://example.com</link>
+    <description>This is a dummy RSS feed for testing purposes.</description>
+    <language>en</language>
+    <pubDate>Tue, 19 Jul 2023 08:00:00 GMT</pubDate>
+    <lastBuildDate>Tue, 19 Jul 2023 08:00:00 GMT</lastBuildDate>
+
+    <item>
+      <title>Article 1</title>
+      <link>https://example.com/article1</link>
+      <description>This is the first article.</description>
+      <pubDate>Tue, 19 Jul 2023 08:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Article 2</title>
+      <link>https://example.com/article2</link>
+      <description>This is the second article.</description>
+      <pubDate>Tue, 18 Jul 2023 08:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Article 3</title>
+      <link>https://example.com/article3</link>
+      <description>This is the third article.</description>
+      <pubDate>Tue, 17 Jul 2023 08:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Article 4</title>
+      <link>https://example.com/article4</link>
+      <description>This is the fourth article.</description>
+      <pubDate>Tue, 16 Jul 2023 08:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Article 5</title>
+      <link>https://example.com/article5</link>
+      <description>This is the fifth article.</description>
+      <pubDate>Tue, 15 Jul 2023 08:00:00 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
