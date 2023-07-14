@@ -1,47 +1,40 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-  <channel>
-    <title>Dummy RSS Feed</title>
-    <link>https://example.com</link>
-    <description>This is a dummy RSS feed for testing purposes.</description>
-    <language>en</language>
-    <pubDate>Tue, 19 Jul 2023 08:00:00 GMT</pubDate>
-    <lastBuildDate>Tue, 19 Jul 2023 08:00:00 GMT</lastBuildDate>
-
-    <item>
-      <title>Article 1</title>
-      <link>https://example.com/article1</link>
-      <description>This is the first article.</description>
-      <pubDate>Tue, 19 Jul 2023 08:00:00 GMT</pubDate>
-    </item>
-
-    <item>
-      <title>Article 2</title>
-      <link>https://example.com/article2</link>
-      <description>This is the second article.</description>
-      <pubDate>Tue, 18 Jul 2023 08:00:00 GMT</pubDate>
-    </item>
-
-    <item>
-      <title>Article 3</title>
-      <link>https://example.com/article3</link>
-      <description>This is the third article.</description>
-      <pubDate>Tue, 17 Jul 2023 08:00:00 GMT</pubDate>
-    </item>
-
-    <item>
-      <title>Article 4</title>
-      <link>https://example.com/article4</link>
-      <description>This is the fourth article.</description>
-      <pubDate>Tue, 16 Jul 2023 08:00:00 GMT</pubDate>
-    </item>
-
-    <item>
-      <title>Article 5</title>
-      <link>https://example.com/article5</link>
-      <description>This is the fifth article.</description>
-      <pubDate>Tue, 15 Jul 2023 08:00:00 GMT</pubDate>
-    </item>
-
-  </channel>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Test RSS Feed]]></title>
+        <description><![CDATA[A dummy RSS feed for testing]]></description>
+        <link>https://danmwenda.github.io/rss-feed/</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Fri, 14 Jul 2023 11:53:45 GMT</lastBuildDate>
+        <atom:link href="https://danmwenda.github.io/rss-feed/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Article 1]]></title>
+            <description><![CDATA[This is the content of article 1]]></description>
+            <link>http://localhost:3000/article1</link>
+            <guid isPermaLink="false">article1</guid>
+        </item>
+        <item>
+            <title><![CDATA[Article 2]]></title>
+            <description><![CDATA[This is the content of article 2]]></description>
+            <link>http://localhost:3000/article2</link>
+            <guid isPermaLink="false">article2</guid>
+        </item>
+        <item>
+            <title><![CDATA[Article 3]]></title>
+            <description><![CDATA[This is the content of article 3]]></description>
+            <link>http://localhost:3000/article3</link>
+            <guid isPermaLink="false">article3</guid>
+        </item>
+        <item>
+            <title><![CDATA[Article 4]]></title>
+            <description><![CDATA[This is the content of article 4]]></description>
+            <link>http://localhost:3000/article4</link>
+            <guid isPermaLink="false">article4</guid>
+        </item>
+        <item>
+            <title><![CDATA[Article 5]]></title>
+            <description><![CDATA[This is the content of article 5]]></description>
+            <link>http://localhost:3000/article5</link>
+            <guid isPermaLink="false">article5</guid>
+        </item>
+    </channel>
 </rss>
