@@ -1,0 +1,154 @@
+#EXTINF:-1,BBC One HD*
+http://149.202.215.151:8080/live/home/home/11526.ts
+#EXTINF:-1,BBC 2 HD*
+http://149.202.215.151:8080/live/home/home/11570.ts
+#EXTINF:-1,BBC 3 HD
+http://149.202.215.151:8080/live/home/home/15132.ts
+#EXTINF:-1,BBC 4 HD
+http://149.202.215.151:8080/live/home/home/660.ts
+#EXTINF:0,BBC Sport  
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_01.m3u8 
+#EXTINF:-1,ITV HD*
+http://149.202.215.151:8080/live/home/home/11377.ts
+#EXTINF:-1,ITV2 HD
+http://149.202.215.151:8080/live/home/home/11569.ts
+#EXTINF:-1,ITV3 HD
+http://149.202.215.151:8080/live/home/home/658.ts
+#EXTINF:-1,ITV4 HD
+http://149.202.215.151:8080/live/home/home/657.ts
+#EXTINF:-1,ITVBe HD
+http://149.202.215.151:8080/live/home/home/656.ts
+#EXTINF:-1,ITV Encore HD
+http://149.202.215.151:8080/live/home/home/12399.ts
+#EXTINF:-1,Channel 4 HD*
+http://149.202.215.151:8080/live/home/home/12394.ts
+#EXTINF:-1,E4 HD
+http://149.202.215.151:8080/live/home/home/653.ts
+#EXTINF:-1,Channel 5 HD*
+http://149.202.215.151:8080/live/home/home/12395.ts
+#EXTINF:-1,5 USA
+http://149.202.215.151:8080/live/home/home/655.ts
+#EXTINF:-1,5 STAR
+http://149.202.215.151:8080/live/home/home/5461.ts
+#EXTINF:-1,Sky Sports Main Events
+http://149.202.215.151:8080/live/home/home/585.ts
+#EXTINF:-1,Sky Sports Cricket HD
+http://149.202.215.151:8080/live/home/home/584.ts
+#EXTINF:-1,Sky Sports Action HD
+http://149.202.215.151:8080/live/home/home/583.ts
+#EXTINF:-1,Sky Sports Golf HD
+http://149.202.215.151:8080/live/home/home/582.ts
+#EXTINF:-1,Sky Sports Premier League HD
+http://149.202.215.151:8080/live/home/home/581.ts
+#EXTINF:-1,Sky Sport Arena HD*
+http://149.202.215.151:8080/live/home/home/32740.ts
+#EXTINF:-1,Sky Sport Football HD*
+http://149.202.215.151:8080/live/home/home/32741.ts
+#EXTINF:-1,BT Sport 1 HD
+http://149.202.215.151:8080/live/home/home/577.ts
+#EXTINF:-1,BT Sport 2 HD
+http://149.202.215.151:8080/live/home/home/576.ts
+#EXTINF:-1,BT Sport 3 HD
+http://149.202.215.151:8080/live/home/home/575.ts
+#EXTINF:-1,BT Sport ESPN HD
+http://149.202.215.151:8080/live/home/home/574.ts
+#EXTINF:96,Canal Plus Sport
+http://37.59.17.92:1935/live?idu=max6996_75478532400/canal_plus_sport/playlist.m3u8
+#EXTINF:-1,bein sport fr1
+http://185.56.30.127:8082/TV4016
+#EXTINF:-1,bein sport fr2
+http://185.56.30.127:8082/TV4017
+#EXTINF:-1,bein sport 1
+http://185.56.30.127:8082/TV4001
+#EXTINF:-1,bein sport 2
+http://185.56.30.127:8082/TV4002
+#EXTINF:-1,bein sport 3
+http://185.56.30.127:8082/TV4003
+#EXTINF:-1,bein sport 4
+http://185.56.30.127:8082/TV4004
+#EXTINF:-1,bein sport 5
+http://185.56.30.127:8082/TV4005
+#EXTINF:-1,bein sport 6
+http://185.56.30.127:8082/TV4006
+#EXTINF:-1,bein sport 7
+http://185.56.30.127:8082/TV4007
+#EXTINF:-1,bein sport 8
+http://185.56.30.127:8082/TV4008
+#EXTINF:-1,bein sport 9
+http://185.56.30.127:8082/TV4009
+#EXTINF:-1,bein sport 10
+http://185.56.30.127:8082/TV4010
+#EXTINF:-1,beIN Sports (UK)
+http://cctv2-lh.akamaihd.net/i/juliancapo_live@125190/index_1080p_av-p.m3u8
+#EXTINF:-1,beIN Sports HD (UK)
+http://cctv-lh.akamaihd.net/i/ZonaXF1_live@125115/index_1080p_av-p.m3u8
+#EXTINF:-1,beIN Sports Espa?ol 720p
+http://dtv_hls_live-lh.akamaihd.net/i/dtvhls02_delivery@195673/index_4128_av-p.m3u8
+#EXTINF:-1,Canal + De Futbol
+http://cctv2-lh.akamaihd.net/i/deportivotve27_live@125194/index_1080p_av-p.m3u8
+#EXTINF:-1,Canal+ HD Deportes
+http://cctv-lh.akamaihd.net/i/deportivotve13_live@125114/master.m3u8
+#EXTINF:-1,Canal+ Liga De Campeones
+http://universalhdlive.marca.com/i/niagara4100_1@100200/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Sky BUNDESLIGA 1
+http://cctv2-lh.akamaihd.net/i/musteqja_live@125190/index_1080p_av-p.m3u8
+#EXTINF:-1,Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Barca TV
+http://cctv-lh.akamaihd.net/i/rivotv6_live@125118/index_1080p_av-p.m3u8
+#EXTINF:-1,ESPN
+http://94.198.255.211:5555/pl.m3u8?channel=14
+#EXTINF:-1,BT Sport 1
+http://sportztv.net/live/SportsTv/Appss/10.ts
+#EXTINF:-1,BT Sport 2
+http://sportztv.net/live/SportsTv/Appss/11.ts
+#EXTINF:-1,Eurosport
+https://sites.google.com/site/apitvbg/eurosport.m3u?attredirects=0
+#EXTINF:-1,Eurosport 2
+https://sites.google.com/site/apitvbg/eurosport2.m3u?attredirects=0
+#EXTINF:-1,Viasat Sport
+http://46.61.226.18/hls/viasat_sport/playlist.m3u8
+#EXTINF:-1,Viasat Fotboll
+http://46.61.226.18/hls/viasat_fotboll/playlist.m3u8
+#EXTINF:-1,DAZN 1
+http://flash.shortgod.com/wadsa/tv1.php?id=437 
+#EXTINF:-1,DAZN EXCLUSIVO 
+http://flash.shortgod.com/wadsa/tv1.php?id=438 
+#EXTINF:-1,DAZN F1 
+http://flash.shortgod.com/wadsa/tv1.php?id=439 
+#EXTINF:-1,DAZN 2 
+http://flash.shortgod.com/wadsa/tv1.php?id=440 
+#EXTINF:-1,DAZN 3 
+http://flash.shortgod.com/wadsa/tv1.php?id=441 
+#EXTINF:-1,DAZN 1 
+http://flash.shortgod.com/wadsa/tv1.php?id=442 
+#EXTINF:-1,DAZN 2 
+http://flash.shortgod.com/wadsa/tv1.php?id=443 
+#EXTINF:-1,DAZN LA LIGA 
+http://flash.shortgod.com/wadsa/tv1.php?id=444 
+#EXTINF:-1,SKY SPORTS 
+http://flash.shortgod.com/wadsa/tv1.php?id=445 
+#EXTINF:-1,SKY SPORTS LA LIGA HD 
+http://flash.shortgod.com/wadsa/tv1.php?id=446 
+#EXTINF:-1,SKY SPORTS LA LIGA HD* 
+http://flash.shortgod.com/wadsa/tv1.php?id=447
+#EXTINF:-1,TNT SPORTS
+http://199.223.255.67:8080/images/admin/progress/47811_.m3u8
+#EXTINF:-1,TNT SPORTS 2
+http://199.223.255.67:8080/images/admin/progress/47839_.m3u8
+#EXTINF:-1,TNT SPORTS 3
+http://199.223.255.67:8080/images/admin/progress/47840_.m3u8
+#EXTINF:-1,LALIGATV  
+http://flash.shortgod.com/wadsa/tv1.php?id=147 
+#EXTINF:-1,LALIGATV 
+FHD http://flash.shortgod.com/wadsa/tv1.php?id=148 
+#EXTINF:-1,LALIGATV 2  
+http://flash.shortgod.com/wadsa/tv1.php?id=149 
+#EXTINF:-1,LALIGATV 3  
+http://flash.shortgod.com/wadsa/tv1.php?id=151 
+#EXTINF:-1,LALIGATV 4  
+http://flash.shortgod.com/wadsa/tv1.php?id=152 
+#EXTINF:-1,LALIGATV 5  
+http://flash.shortgod.com/wadsa/tv1.php?id=153 
+#EXTINF:-1,LALIGATV 6 
+http://flash.shortgod.com/wadsa/tv1.php?id=154
