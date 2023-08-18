@@ -504,3 +504,81 @@ http://new-pro.tv:8080/99622282/etbVXafU6f/116156
 http://new-pro.tv:8080/99622282/etbVXafU6f/116157
 #EXTINF:-1 tvg-ID="tsn4hd" tvg-name="TSN 4" tvg-quality="HD",TSN 4 HD
 http://new-pro.tv:8080/99622282/etbVXafU6f/116158
+#EXTINF:-1 tvg-ID="mutvhd" tvg-name="MUTV" tvg-quality="HD",MUTV HD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/112
+#EXTINF:-1 tvg-ID="mutvfhd" tvg-name="MUTV" tvg-quality="FHD",MUTV FHD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/62575
+#EXTINF:-1 tvg-ID="mutvsd" tvg-name="MUTV" tvg-quality="SD",MUTV SD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/179
+#EXTINF:-1 tvg-ID="viaplaysports1hd" tvg-name="Viaplay Sports 1" tvg-quality="HD",Viaplay Sports 1 HD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/14
+#EXTINF:-1 tvg-ID="viaplaysports1fhd" tvg-name="Viaplay Sports 1" tvg-quality="FHD",Viaplay Sports 1 FHD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/62563
+#EXTINF:-1 tvg-ID="viaplaysports1sd" tvg-name="Viaplay Sports 1" tvg-quality="SD",Viaplay Sports 1 SD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/160
+#EXTINF:-1 tvg-ID="viaplaysports2hd" tvg-name="Viaplay Sports 2" tvg-quality="HD",Viaplay Sports 1 HD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/13
+#EXTINF:-1 tvg-ID="viaplaysports2fhd" tvg-name="Viaplay Sports 2" tvg-quality="FHD",Viaplay Sports 1 FHD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/275
+#EXTINF:-1 tvg-ID="viaplayxtrafhd" tvg-name="Viaplay Xtra" tvg-quality="FHD",Viaplay Xtra FHD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/48539
+#EXTINF:-1 tvg-ID="viaplayxtrahd" tvg-name="Viaplay Xtra" tvg-quality="HD",Viaplay Xtra HD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/12
+#EXTINF:-1 tvg-ID="viaplayxtrasd" tvg-name="Viaplay Xtra" tvg-quality="SD",Viaplay Xtra SD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/11368
+#EXTINF:-1 tvg-ID="itv1plus1x" tvg-name="ITV 1" tvg-quality="SD",ITV 1 SD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/79266
+#EXTINF:-1 tvg-ID="itv2plus1xsd" tvg-name="ITV 2" tvg-quality="SD",ITV 2 SD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/107629
+#EXTINF:-1 tvg-ID="itv2x" tvg-name="ITV 2" tvg-quality="FHD",ITV 2 FHD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/104866
+#EXTINF:-1 tvg-ID="itv2xhd" tvg-name="ITV 2" tvg-quality="HD",ITV 2 HD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/106
+#EXTINF:-1 tvg-ID="itv2xsd" tvg-name="ITV 2" tvg-quality="SD",ITV 2 SD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/74460
+#EXTINF:-1 tvg-ID="itv3plus1xsd" tvg-name="ITV 3" tvg-quality="SD",ITV 3 SD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/120651
+#EXTINF:-1 tvg-ID="itv3x" tvg-name="ITV 3" tvg-quality="FHD",ITV 3 FHD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/107
+#EXTINF:-1 tvg-ID="itv3xhd" tvg-name="ITV 3" tvg-quality="HD",ITV 3 HD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/104867
+#EXTINF:-1 tvg-ID="itv3xsd" tvg-name="ITV 3" tvg-quality="SD",ITV 3 SD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/74461
+#EXTINF:-1 tvg-ID="itv4xhd" tvg-name="ITV 4" tvg-quality="HD",ITV 4 HD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/108
+#EXTINF:-1 tvg-ID="itv4xsd" tvg-name="ITV 4" tvg-quality="SD",ITV 4 SD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/104865
+#EXTINF:-1 tvg-ID="tntsports1xfhd" tvg-name="TNT Sports 1" tvg-quality="FHD",TNT Sports 1 FHD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/161
+#EXTINF:-1 tvg-ID="tntsports1xfhd50fps" tvg-name="TNT Sports 1" tvg-quality="FHD",TNT Sports 1 FHD 50FPS
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/55490
+#EXTINF:-1 tvg-ID="tntsports1xhd" tvg-name="TNT Sports 1" tvg-quality="HD",TNT Sports 1 HD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/63
+#EXTINF:-1 tvg-ID="tntsports1xsd" tvg-name="TNT Sports 1" tvg-quality="SD",TNT Sports 1 SD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/162
+#EXTINF:-1 tvg-ID="tntsports2xfhd" tvg-name="TNT Sports 2" tvg-quality="FHD",TNT Sports 2 FHD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/93551
+#EXTINF:-1 tvg-ID="tntsports2xfhd50fps" tvg-name="TNT Sports 2" tvg-quality="FHD",TNT Sports 2 FHD 50FPS
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/55491
+#EXTINF:-1 tvg-ID="tntsports2xhd" tvg-name="TNT Sports 2" tvg-quality="HD",TNT Sports 2 HD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53516
+#EXTINF:-1 tvg-ID="tntsports2xsd" tvg-name="TNT Sports 2" tvg-quality="SD",TNT Sports 2 SD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/11283
+#EXTINF:-1 tvg-ID="tntsports3xfhd" tvg-name="TNT Sports 3" tvg-quality="FHD",TNT Sports 3 FHD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/53517
+#EXTINF:-1 tvg-ID="tntsports3xfhd50fps" tvg-name="TNT Sports 3" tvg-quality="FHD",TNT Sports 3 FHD 50FPS
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/55492
+#EXTINF:-1 tvg-ID="tntsports3xhd" tvg-name="TNT Sports 3" tvg-quality="HD",TNT Sports 3 HD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/11284
+#EXTINF:-1 tvg-ID="tntsports3xsd" tvg-name="TNT Sports 3" tvg-quality="SD",TNT Sports 3 SD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/64
+#EXTINF:-1 tvg-ID="tntsports4xfhd" tvg-name="TNT Sports 4" tvg-quality="FHD",TNT Sports 4 FHD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/93693
+#EXTINF:-1 tvg-ID="tntsports4xfhd50fps" tvg-name="TNT Sports 4" tvg-quality="FHD",TNT Sports 4 FHD 50FPS
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/55493
+#EXTINF:-1 tvg-ID="tntsports4xhd" tvg-name="TNT Sports 4" tvg-quality="HD",TNT Sports 4 HD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/66
+#EXTINF:-1 tvg-ID="tntsports4xsd" tvg-name="TNT Sports 4" tvg-quality="SD",TNT Sports 4 SD
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/65
+#EXTINF:-1 tvg-ID="tntsportsultimateuhdx4khevc" tvg-name="TNT Sports Ultimate" tvg-quality="UHD",TNT Sports Ultimate 
+http://xplatinmedia.com:8080/@Roloq/56geFQ4mfyhhX2PX6fsbYF/51016
